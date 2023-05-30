@@ -8,7 +8,7 @@
     "commit": "git-cz"
   },
   "keywords": [],
-  "author": "",
+  "author": "Itamar Junior",
   "license": "ISC",
   "devDependencies": {
     "cz-git": "^1.6.1"
